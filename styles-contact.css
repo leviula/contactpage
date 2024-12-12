@@ -272,3 +272,7 @@ p, li, label, a{
 a {
 	color: rgb(84, 9, 67);
 }
+
+a:hover {
+ 	color: black;
+}
