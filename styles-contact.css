@@ -273,6 +273,6 @@ a {
 	color: rgb(84, 9, 67);
 }
 
-.hover:hover {
+.hover:hover, li:hover, nav:hover {
  	color: black;
 }
